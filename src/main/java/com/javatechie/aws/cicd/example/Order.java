@@ -1,4 +1,5 @@
 package com.javatechie.aws.cicd.example;
+/*Some random comments*/
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
